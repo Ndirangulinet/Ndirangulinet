@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm ndirangu linet</h1>
+<h1 align="center">Hi 👋, I am ndirangu linet</h1>
 <h3 align="center">A passionate ui/ux designer anticipating mobile developer , database administrator and web engineer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ndirangulinet&label=Profile%20views&color=0e75b6&style=flat" alt="ndirangulinet" /> </p>
