@@ -3,11 +3,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ndirangulinet&label=Profile%20views&color=0e75b6&style=flat" alt="ndirangulinet" /> </p>
 
-- 🌱 I’m currently learning **js and its frameworks**
+- 🌱 I’m currently learning backend development
 
-- 🤝 I’m looking for help with **web development**
-
-- 💬 Ask me about **S.E.O and ui/ux**
+- 💬 Ask me about S.E.O,ui/ux, and frontend development
 
 - 📫 How to reach me **ndirangulinet01@gmail.com**
 
